@@ -99,6 +99,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 # Relay-Specific Server Support
 ## Go
+- [ent](https://entgo.io) - ent - An entity framework from Facebook. Includes [GraphQL and Relay support](https://entgo.io/docs/graphql).
 - [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
